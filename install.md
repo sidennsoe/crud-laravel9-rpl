@@ -1,7 +1,7 @@
 <a href="https://ibb.co/8rQHMZr"><img src="https://i.ibb.co/8rQHMZr/laravel2.jpg" alt="laravel2" border="0"></a> 
 <p></p>
 <a href="https://ibb.co/12K7g2Y"><img src="https://i.ibb.co/12K7g2Y/laravel1.png" alt="laravel1" border="0"></a>
-[![YouTube Video](https://i.ibb.co/5L4psMK/CRUD-Search-Sederhana-Menggunakan-Laravel-9-dan-Livewire-2.png)](https://youtu.be/hUmjgwyeZm0)
+
 
 # Crud Laravel 9
 
