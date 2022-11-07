@@ -6,7 +6,7 @@
 
 Aplikasi ini adalah aplikasi CRUD + Search sederhana yang dibuat untuk kebutukan pembelajaran dan penggunakan bahan UJIKOM Taruna/Taruna XII-RPL SMK Negeri Kasomalang. Aplikasi ini menggukan basis PHP 8 dan Laravel 9 dan Livewire 2, bisa ikuti cara-cara berikut ini.
 
-# Perlengkapan  <br>
+# Perlengkapan 
 Xampp : (<a href="https://www.apachefriends.org/download.html" target="_blank">Download disini</a>)<br>
 Composer : (<a href="https://getcomposer.org/download/" target="_blank">Download disini</a>)<br>
 NPM : (<a href="https://nodejs.org/en/download/" target="_blank">Download disini</a>)<br>
