@@ -4,7 +4,12 @@
 
 # Crud Laravel 9
 
-WIRECRUD 9 adalah aplikasi CRUD + Search sederhana yang dibuat menggukana Laravel 9 dan Livewire 2. Demo bisa dilihat di YouTube Developow Terbuka jika ingin clone apliaksi sederhana ini untuk belajar, bisa ikuti cara-cara berikut ini.
+Aplikasi ini adalah aplikasi CRUD + Search sederhana yang dibuat untuk kebutukan pembelajaran dan penggunakan bahan UJIKOM Taruna/Taruna XII-RPL SMK Negeri Kasomalang. Aplikasi ini menggukan basis PHP 8 dan Laravel 9 dan Livewire 2, bisa ikuti cara-cara berikut ini.
+
+Perlengkapan : 
+Xampp : (<a href="https://www.apachefriends.org/download.html">Download disini</a>)
+Composer : (<a href="https://getcomposer.org/download/">Download disini</a>)
+NPM : (<a href="https://nodejs.org/en/download/">Download disini</a>)
 
 
 ## Clone
